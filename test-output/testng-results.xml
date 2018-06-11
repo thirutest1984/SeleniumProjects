@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Mercury flight booking test project" duration-ms="48638" started-at="2018-03-23T12:30:10Z" finished-at="2018-03-23T12:30:59Z">
+    <groups>
+    </groups>
+    <test name="Flight booking tests" duration-ms="48638" started-at="2018-03-23T12:30:10Z" finished-at="2018-03-23T12:30:59Z">
+      <class name="mercury.bookflight.testcases.MercuryTestCases">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:mercury.bookflight.testcases.MercuryTestCases@3e57cd70]" name="beforeSuite" is-config="true" duration-ms="16" started-at="2018-03-23T18:00:10Z" finished-at="2018-03-23T18:00:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:mercury.bookflight.testcases.MercuryTestCases@3e57cd70]" name="beforeTest" is-config="true" duration-ms="1" started-at="2018-03-23T18:00:11Z" finished-at="2018-03-23T18:00:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:mercury.bookflight.testcases.MercuryTestCases@3e57cd70]" name="beforeClass" is-config="true" duration-ms="0" started-at="2018-03-23T18:00:11Z" finished-at="2018-03-23T18:00:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:mercury.bookflight.testcases.MercuryTestCases@3e57cd70]" name="openBrowser" is-config="true" duration-ms="6342" started-at="2018-03-23T18:00:11Z" finished-at="2018-03-23T18:00:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="validateLogIn()[pri:0, instance:mercury.bookflight.testcases.MercuryTestCases@3e57cd70]" name="validateLogIn" duration-ms="2259" started-at="2018-03-23T18:00:17Z" description="Test: Validating the user credentials" finished-at="2018-03-23T18:00:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLogIn -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:mercury.bookflight.testcases.MercuryTestCases@3e57cd70]" name="closeBrowser" is-config="true" duration-ms="927" started-at="2018-03-23T18:00:19Z" finished-at="2018-03-23T18:00:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:mercury.bookflight.testcases.MercuryTestCases@3e57cd70]" name="openBrowser" is-config="true" duration-ms="26346" started-at="2018-03-23T18:00:20Z" finished-at="2018-03-23T18:00:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="bookReturnFlightTickets()[pri:1, instance:mercury.bookflight.testcases.MercuryTestCases@3e57cd70]" name="bookReturnFlightTickets" duration-ms="11613" started-at="2018-03-23T18:00:46Z" description="Test: Book flight tickets for return journey" finished-at="2018-03-23T18:00:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bookReturnFlightTickets -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:mercury.bookflight.testcases.MercuryTestCases@3e57cd70]" name="closeBrowser" is-config="true" duration-ms="831" started-at="2018-03-23T18:00:58Z" finished-at="2018-03-23T18:00:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:mercury.bookflight.testcases.MercuryTestCases@3e57cd70]" name="afterClass" is-config="true" duration-ms="0" started-at="2018-03-23T18:00:59Z" finished-at="2018-03-23T18:00:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:mercury.bookflight.testcases.MercuryTestCases@3e57cd70]" name="afterTest" is-config="true" duration-ms="0" started-at="2018-03-23T18:00:59Z" finished-at="2018-03-23T18:00:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="sendReport()[pri:0, instance:mercury.bookflight.testcases.MercuryTestCases@3e57cd70]" name="sendReport" is-config="true" duration-ms="21126" started-at="2018-03-23T18:00:59Z" finished-at="2018-03-23T18:01:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sendReport -->
+      </class> <!-- mercury.bookflight.testcases.MercuryTestCases -->
+    </test> <!-- Flight booking tests -->
+  </suite> <!-- Mercury flight booking test project -->
+</testng-results>

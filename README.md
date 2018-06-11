@@ -1,0 +1,1 @@
+Selenium automation project for the flight reservations.
